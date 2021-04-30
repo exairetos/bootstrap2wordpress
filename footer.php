@@ -52,7 +52,7 @@
                             <p class="nav-link">&copy; <?php echo date('Y'); ?> <?php the_author_link(); ?></p>
                         </li>
                     </ul>
-                    <p class="d-inline ms-auto">&copy; 2020 Exairetos</p>
+                    <!-- <p class="d-inline ms-auto">&copy; 2020 Exairetos</p> -->
                 </div> <!-- column end -->
             </div>
         </div><!-- container -->
