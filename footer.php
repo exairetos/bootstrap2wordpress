@@ -75,23 +75,23 @@
                     <p>Simply enter your name and email! As a thank you for joining us, we're going to give you one of
                         our best-selling courses <em>for free!</em></p>
                     <form action="" class="form-inline" role="form">
-                        <div class="row g-1 align-middle">
-                            <div class="col-auto">
-                                <div class="form-group">
-                                    <label for="subscribe-name" class="sr-only-focusable visually-hidden">Your First Name</label>
-                                    <input type="text" class="form-control" id="subscribe-name" placeholder="Your First Name">
-                                </div> <!-- form-group -->
-                            </div> <!-- col-auto -->
-                            <div class="col-auto">    
-                                <div class="form-group">
-                                    <label for="subscribe-email" class="sr-only-focusable visually-hidden">And Your Email</label>
-                                    <input type="text" class="form-control" id="subscribe-email" placeholder="Your Email">
-                                </div> <!-- form-group -->
-                            </div> <!-- col-auto -->
-                            <div class="col-auto ">
-                                <input type="submit" class="btn btn-danger" value="Subscribe!">
-                            </div> <!-- col-auto -->
-                        </div> <!--row -->
+                    <div class="row gx-1 align-middle">
+                        <div class="col-4">
+                            <div class="form-group">
+                                <label for="subscribe-name" class="sr-only-focusable visually-hidden">Your First Name</label>
+                                <input type="text" class="form-control" id="subscribe-name" placeholder="Your First Name">
+                            </div> <!-- form-group -->
+                        </div> <!-- col-auto -->
+                        <div class="col-5">    
+                            <div class="form-group">
+                                <label for="subscribe-email" class="sr-only-focusable visually-hidden">And Your Email</label>
+                                <input type="text" class="form-control" id="subscribe-email" placeholder="Your Email">
+                            </div> <!-- form-group -->
+                        </div> <!-- col-auto -->
+                        <div class="col-3 ">
+                            <input type="submit" class="btn btn-danger" value="Subscribe!">
+                        </div> <!-- col-auto -->
+                    </div> <!--row -->
                     </form>
                     <hr>
                     <p><small>By providing your email you consent to receiving occasional promotional emails &amp;

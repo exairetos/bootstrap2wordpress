@@ -24,7 +24,7 @@ $course_button_text     = get_field('cource_button_text');
                         <p class="lead"><?php bloginfo('description'); ?></p>
                         <div id="price-timeline">
                             <div class="price active">
-                                <h4>Pre-Launch Price<small>Ends soon!</small></h4>
+                                <h4>Pre-Launch Price<small>Ends soon!!</small></h4>
                                 <span><?php echo $prelaunch_price; ?></span>
                             </div> <!-- price -->
                             <div class="price">
