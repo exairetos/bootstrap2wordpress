@@ -17,3 +17,4 @@ jobs:
         server: ftp.exairetos.a2hosted.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
+        server-dir: /public_html/staging/wp-content/themes/bootstrap2wordpress/
